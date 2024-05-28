@@ -12,3 +12,4 @@ C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\refint\ATV2-Prog1.dll
 C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.pdb
 C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.genruntimeconfig.cache
 C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ref\ATV2-Prog1.dll
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.sourcelink.json
