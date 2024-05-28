@@ -1,0 +1,14 @@
+C:\Users\Dough\Desktop\ATV2-Prog1\bin\Debug\net8.0\ATV2-Prog1.exe
+C:\Users\Dough\Desktop\ATV2-Prog1\bin\Debug\net8.0\ATV2-Prog1.deps.json
+C:\Users\Dough\Desktop\ATV2-Prog1\bin\Debug\net8.0\ATV2-Prog1.runtimeconfig.json
+C:\Users\Dough\Desktop\ATV2-Prog1\bin\Debug\net8.0\ATV2-Prog1.dll
+C:\Users\Dough\Desktop\ATV2-Prog1\bin\Debug\net8.0\ATV2-Prog1.pdb
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.AssemblyInfoInputs.cache
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.AssemblyInfo.cs
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.csproj.CoreCompileInputs.cache
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.dll
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\refint\ATV2-Prog1.dll
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.pdb
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ATV2-Prog1.genruntimeconfig.cache
+C:\Users\Dough\Desktop\ATV2-Prog1\obj\Debug\net8.0\ref\ATV2-Prog1.dll
