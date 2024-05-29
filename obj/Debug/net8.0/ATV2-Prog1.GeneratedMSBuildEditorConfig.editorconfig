@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ATV2_Prog1
-build_property.ProjectDir = C:\Users\Dough\Desktop\ATV2-Prog1\
+build_property.ProjectDir = c:\Users\Dough\Desktop\ATV2-Prog1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
